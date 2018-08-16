@@ -1,0 +1,14 @@
+tl_bot_configuration:
+  bot_username: ${BOT_NAME}
+  bot_token: ${BOT_TOKEN}
+
+mongo:
+  uri: ${MONGO_URL}
+
+server:
+  application_connectors:
+  - type: http
+    port: 5000
+  admin_connectors:
+  - type: http
+    port: 5001

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "bitcoin",
+    "symbol": "btc",
+    "dictionary": [
+      "btc",
+      "bitcoin",
+      "bicoin",
+      "bitkoin"
+    ]
+  },
+  {
+    "name": "ethereum",
+    "symbol": "eth",
+    "dictionary": [
+      "eth",
+      "ethereum",
+      "etherium",
+      "ethirium",
+      "etereum",
+      "eterium"
+    ]
+  }
+]

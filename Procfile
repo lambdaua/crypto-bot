@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar build/libs/com.cryptobot-1.0-SNAPSHOT-all.jar server production.yml
